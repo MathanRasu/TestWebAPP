@@ -14,6 +14,7 @@ namespace TestWebApplication.Controllers
     public class AccountController : ControllerBase
     {
         private IAccountBAL accountBAL;
+
         public AccountController(IAccountBAL _accountBAL)
         {
             this.accountBAL = _accountBAL;
