@@ -1,0 +1,15 @@
+D:\Practise\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\Practise\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\Practise\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\Practise\DataAccessLayer\bin\Debug\net8.0\DataObject.dll
+D:\Practise\DataAccessLayer\bin\Debug\net8.0\DataObject.pdb
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\Practise\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

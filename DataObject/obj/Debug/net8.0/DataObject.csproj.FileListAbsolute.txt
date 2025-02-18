@@ -1,0 +1,12 @@
+D:\Practise\DataObject\bin\Debug\net8.0\DataObject.deps.json
+D:\Practise\DataObject\bin\Debug\net8.0\DataObject.dll
+D:\Practise\DataObject\bin\Debug\net8.0\DataObject.pdb
+D:\Practise\DataObject\obj\Debug\net8.0\DataObject.csproj.AssemblyReference.cache
+D:\Practise\DataObject\obj\Debug\net8.0\DataObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\DataObject\obj\Debug\net8.0\DataObject.AssemblyInfoInputs.cache
+D:\Practise\DataObject\obj\Debug\net8.0\DataObject.AssemblyInfo.cs
+D:\Practise\DataObject\obj\Debug\net8.0\DataObject.csproj.CoreCompileInputs.cache
+D:\Practise\DataObject\obj\Debug\net8.0\DataObject.dll
+D:\Practise\DataObject\obj\Debug\net8.0\refint\DataObject.dll
+D:\Practise\DataObject\obj\Debug\net8.0\DataObject.pdb
+D:\Practise\DataObject\obj\Debug\net8.0\ref\DataObject.dll
