@@ -362,6 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-DataObject/bin
-DataAccessLayer/bin
-ServiceLayer/bin
+DataObject/bin/
+DataAccessLayer/bin/
+ServiceLayer/bin/

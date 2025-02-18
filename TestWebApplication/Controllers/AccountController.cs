@@ -10,7 +10,7 @@ namespace TestWebApplication.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //[Authorize]
+    [Authorize]
     public class AccountController : ControllerBase
     {
         private IAccountBAL accountBAL;
